@@ -1,5 +1,5 @@
 <table>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/satellite.jpg](https://file.notion.so/f/f/3410f64a-0f49-4a84-a2ff-3886921be068/b2fb71c0-f730-412e-a977-90a6a66aa591/image1.png?table=block&id=e1f4ad59-1367-42d7-a1b1-befcb943a90d&spaceId=3410f64a-0f49-4a84-a2ff-3886921be068&expirationTimestamp=1726012800000&signature=TFa0d3SwnRNmyatoGRgzqTMueXZ8BOfEeDaGcO972FA&downloadName=image1.png"  width=500 /></td>
+<td><img src="https://raw.githubusercontent.com/RyanBritt217/CRC-Villanova-/main/CRC%20Image2.png?token=GHSAT0AAAAAACXEP6XRNFXAE3OSJ67HNCPWZXAEEMQ"  width=500 /></td>
 <td><p><h1>CRC Wing Design & Manufacturing</h1></p>
 <p> Design methods and process to construct a new wing for the CRC drone.</p>
 </table>
